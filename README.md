@@ -1,2 +1,2 @@
 # contacts-app
-This application is to perform CRUD operation using React
+This application is to perform CRUD operation using Reactjs
